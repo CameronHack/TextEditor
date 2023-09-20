@@ -31,8 +31,11 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        start_url: './',
-        publicPath: './',
+        name: 'texteditor',
+        short_name: 'text',
+        description: 'texteditor',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
