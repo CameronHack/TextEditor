@@ -1,6 +1,6 @@
 # Text Editor
 
-Link to deployed site
+[Link to deployed site](https://lit-coast-39670-51c075fb7254.herokuapp.com/)
 
 ## Description
 
@@ -22,3 +22,5 @@ MIT License - Permissive free software license
 [My GitHub Profile](https://github.com/cameronhack)
 
 Contact me at: camhack67@gmail.com
+
+![texteditor](https://github.com/CameronHack/TextEditor/assets/139071966/d770a6cd-ce7b-4756-926a-d5f893b90412)
